@@ -9,7 +9,7 @@ import java.nio.charset.StandardCharsets;
 
 public class Receber {
 
-    private static final String IP_PROFESSOR = "10.209.1.84";
+    private static final String IP_PROFESSOR = "10.209.1.53";
 
     private static final String NOME_DA_FILA = "dupla_maria_lucas";
 
